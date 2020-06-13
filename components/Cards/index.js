@@ -46,10 +46,10 @@
      // forEach() to loop through ARRAYS
 
      //Object.articles( key in response.data.articles ) // javascript, bootstrap ...
+     
      //repsonse.data. ARTICLES . [ARRAYS OF OBJECTS] . [ARRAY INDEX] . KEY
      //                  1                2                 3           4
-
-     // console.log(response.data.articles[key][index].headline)
+     //response.data.  articles         [key]             [index].    headline
 
      //---------------------------------------------------------
 
